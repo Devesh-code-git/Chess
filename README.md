@@ -28,3 +28,4 @@ When a king gets checkmated, it will be highlighted by a strong red color instea
 ![](images/ChessStalemateHighlight.png)  
 When a stalemate occurs, the kings who is in stalemate will be highlighted a grey color
 -
+-
